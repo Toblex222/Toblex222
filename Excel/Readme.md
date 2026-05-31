@@ -1,25 +1,25 @@
 Toblex, [31-May-26 10:31 PM]
-##FINANCE DASHBOARD PORTFOLIO REPORT
+## FINANCE DASHBOARD PORTFOLIO REPORT
 
--Executive Summary
+# Executive Summary
 
 This project presents an interactive Finance Summary Dashboard designed to provide management with a centralized view of revenue, expenses, profitability, and departmental performance. The dashboard enables stakeholders to make data-driven decisions through dynamic filtering and visual analytics.
 
 ---
 
-#Project Objective
+# Project Objective
 
 The objective of this project is to analyze organizational financial performance, identify revenue and expense trends, evaluate departmental contributions, and provide actionable business insights through an interactive Excel dashboard.
 
 ---
 
-#Business Problem
+# Business Problem
 
 Organizations often struggle with monitoring financial performance when data is scattered across multiple reports and spreadsheets. Management required a centralized reporting solution that would provide quick access to key financial metrics, profitability analysis, expense monitoring, and departmental performance evaluation.
 
 ---
 
-Dataset Description
+# Dataset Description
 
 The dataset contains financial transaction records with the following fields:
 
@@ -39,7 +39,7 @@ The data includes both revenue and expense transactions across different departm
 
 ---
 
-Data Preparation and Cleaning
+# Data Preparation and Cleaning
 
 The following steps were carried out during data preparation:
 
@@ -53,7 +53,7 @@ The following steps were carried out during data preparation:
 
 ---
 
-Tools and Techniques Used
+# Tools and Techniques Used
 
 Tools
 
@@ -63,7 +63,7 @@ Tools
 - Slicers
 - Conditional Formatting
 
-Techniques
+# Techniques
 
 - Financial Analysis
 - Data Cleaning
@@ -74,7 +74,7 @@ Techniques
 
 ---
 
-Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 KPI| Value
 Total Revenue| ₦23,742,945
@@ -89,7 +89,7 @@ Profit Margin = (Profit ÷ Revenue) × 100
 
 Profit Margin = 66.6%
 
-Interpretation
+# Interpretation
 
 The company retains approximately ₦66.60 as profit for every ₦100 generated in revenue, indicating strong financial performance.
 
@@ -143,7 +143,7 @@ Users can filter dashboard results by:
 
 ---
 
-Key Insights
+# Key Insights
 
 Insight 1: Strong Profitability
 
@@ -186,7 +186,7 @@ Implication: The business may experience seasonal performance variations.
 
 ---
 
-Business Recommendations
+# Business Recommendations
 
 Recommendation 1
 
@@ -254,7 +254,7 @@ This dashboard provides the following benefits:
 
 ---
 
-Limitations
+# Limitations
 
 The project has the following limitations:
 
@@ -279,7 +279,7 @@ Future versions of the dashboard may include:
 
 ---
 
-Conclusion
+# Conclusion
 
 The Finance Summary Dashboard successfully transforms raw financial data into actionable business intelligence. Through the use of KPI cards, category analysis, departmental performance comparisons, and trend visualization, the dashboard enables stakeholders to monitor financial health, identify opportunities for growth, control expenses, and make informed strategic decisions.
 
