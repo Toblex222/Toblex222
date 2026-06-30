@@ -1,1 +1,40 @@
-
+🏥 Healthcare Waitlist Analysis Dashboard
+A professional Power BI dashboard built to monitor and analyze healthcare waiting lists across different patient categories, age groups, and waiting periods. The dashboard enables stakeholders to identify bottlenecks, monitor trends, and support data-driven decision-making.
+📌 Overview
+This dashboard provides an interactive view of healthcare waitlist performance using historical patient data. Users can filter results by specialist, case type, age profile, time band, and archive date to gain deeper operational insights.
+🛠 Tools Used
+Power BI
+Power Query
+DAX
+Data Modeling
+📊 Dashboard Features
+KPI Cards
+Latest Month Waitlist
+Total Cases
+Median Wait Time
+Interactive Filters
+Specialist
+Case Type
+Age Profile
+Time Band
+Archive Date
+Visualizations
+Waitlist Distribution
+Waitlist by Time Band & Age Group
+Historical Waitlist Trend
+Average Waitlist by Category
+📈 Key Insights
+679K patients were on the latest monthly waitlist, indicating a significant backlog requiring continuous monitoring.
+A total of 25 million patient cases were recorded across all healthcare service types.
+The median patient waiting time is 6.9 months, meaning half of all patients wait longer than nearly seven months before receiving care.
+Outpatient services account for the largest proportion of the waiting list and have the highest average wait time (7.5 months), making them the primary contributor to the overall backlog.
+Day Case patients experience an average waiting time of 5.4 months, while Inpatient cases average 4.2 months, indicating comparatively shorter waiting periods.
+Historical trend analysis shows a steady increase in total waitlists from 2020 to 2024, suggesting growing demand for healthcare services over time.
+Patients waiting between 3–9 months represent the largest share of the waiting list across both age groups, highlighting this period as the most common waiting duration.
+🎯 Business Value
+This dashboard helps healthcare administrators to:
+Monitor patient waiting times.
+Identify high-demand service categories.
+Track waitlist growth over time.
+Support resource planning and capacity management.
+Improve operational decision-making through data visualization.
